@@ -1,0 +1,6 @@
+I've installed python 3.8
+create the venv and activated it.
+
+
+installed the migrations.
+everything works so far..
